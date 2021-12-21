@@ -11,6 +11,7 @@ This repository contains my configuration files of my Voron 2.4 build.
 * Phaetus Dragon
 * Raspberry Pi 4
 * BTT TFT50 V2 Touchscreen
+* Purge Bucket
 
 ### Software
 
