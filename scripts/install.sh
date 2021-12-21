@@ -9,4 +9,4 @@ sudo systemctl restart klipper.service
 sudo systemctl restart moonraker.service
 
 # restart klipperscreen
-sudo systemctl restart klipperscreen.service
+sudo systemctl restart KlipperScreen.service
