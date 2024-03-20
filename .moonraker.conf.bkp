@@ -31,6 +31,10 @@ trusted_clients =
 
 [history]
 
+[spoolman]
+server = https://spoolman.mthms.nl
+sync_rate = 5
+
 [update_manager]
 channel = dev
 refresh_interval = 168
